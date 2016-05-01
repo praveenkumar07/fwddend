@@ -1,0 +1,5 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"name":"Afghanistan","tag":101,"SATMT25":200,"SATMT75":300,"SATVR25":250,"SATVR75":400,"SATWR25":450,"SATWR75":350,"SATMTMID":300,"SATVRMID":450,"SATWRMID":500,"Average":800}},
+{"type":"Feature","properties":{"name":"India","tag":102,"SATMT25":200,"SATMT75":200,"SATVR25":200,"SATVR75":200,"SATWR25":200,"SATWR75":200,"SATMTMID":200,"SATVRMID":200,"SATWRMID":200,"Average":200}}
+]
+}

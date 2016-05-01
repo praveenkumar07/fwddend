@@ -1,0 +1,2212 @@
+{
+ "name": "convertcsv",
+ "children": [
+  {
+   "name": "analytics",
+   "children": [
+     {
+     "name": "Alabama A & M University",
+     "children": [
+   {
+    "name": "Alabama A & M University",
+    "size": 823
+  },
+  {
+    "name": "SATMT25",
+    "size": 313
+  },
+  {
+    "name": "SATMT75",
+    "size": 370
+  },
+  {
+    "name": "SATVR25",
+    "size": 198
+  },
+  {
+    "name": "SATVR75",
+    "size": 247
+  },
+  {
+    "name": "SATWR25",
+    "size": 156
+  },
+  {
+    "name": "SATWR75",
+    "size": 206
+  },
+  {
+    "name": "SATMTMID",
+    "size": 346
+  },
+  {
+    "name": "SATVRMID",
+    "size": 222
+  },
+  {
+    "name": "SATWRMID",
+    "size": 181}
+    ]
+    
+  },
+  {
+     "name": "University of Alabama at Birmingham",
+     "children": [
+  {
+    "name": "University of Alabama at Birmingham",
+    "size": 1146
+  },
+  {
+    "name": "SATMT25",
+    "size": 435
+  },
+  {
+    "name": "SATMT75",
+    "size": 516
+  },
+  {
+    "name": "SATVR25",
+    "size": 275
+  },
+  {
+    "name": "SATVR75",
+    "size": 344
+  },
+  {
+    "name": "SATWR25",
+    "size": 218
+  },
+  {
+    "name": "SATWR75",
+    "size": 287
+  },
+  {
+    "name": "SATMTMID",
+    "size": 481
+  },
+  {
+    "name": "SATVRMID",
+    "size": 309
+  },
+  {
+    "name": "SATWRMID",
+    "size": 252}
+    ]
+  },
+  {
+     "name": "Amridge University",
+     "children": [
+  {
+    "name": "Amridge University",
+    "size": 800
+  },
+  {
+    "name": "SATMT25",
+    "size": 304
+  },
+  {
+    "name": "SATMT75",
+    "size": 360
+  },
+  {
+    "name": "SATVR25",
+    "size": 192
+  },
+  {
+    "name": "SATVR75",
+    "size": 240
+  },
+  {
+    "name": "SATWR25",
+    "size": 152
+  },
+  {
+    "name": "SATWR75",
+    "size": 200
+  },
+  {
+    "name": "SATMTMID",
+    "size": 336
+  },
+  {
+    "name": "SATVRMID",
+    "size": 216
+  },
+  {
+    "name": "SATWRMID",
+    "size": 176}
+    ]
+  },
+  {
+     "name": "University of Alabama in Huntsville",
+     "children": [
+  {
+    "name": "University of Alabama in Huntsville",
+    "size": 1180
+  },
+  {
+    "name": "SATMT25",
+    "size": 448
+  },
+  {
+    "name": "SATMT75",
+    "size": 531
+  },
+  {
+    "name": "SATVR25",
+    "size": 283
+  },
+  {
+    "name": "SATVR75",
+    "size": 354
+  },
+  {
+    "name": "SATWR25",
+    "size": 224
+  },
+  {
+    "name": "SATWR75",
+    "size": 295
+  },
+  {
+    "name": "SATMTMID",
+    "size": 496
+  },
+  {
+    "name": "SATVRMID",
+    "size": 319
+  },
+  {
+    "name": "SATWRMID",
+    "size": 260}
+    ]
+  },
+  {
+     "name": "Alabama State University",
+     "children": [
+  {
+    "name": "Alabama State University",
+    "size": 830
+  },
+  {
+    "name": "SATMT25",
+    "size": 315
+  },
+  {
+    "name": "SATMT75",
+    "size": 374
+  },
+  {
+    "name": "SATVR25",
+    "size": 199
+  },
+  {
+    "name": "SATVR75",
+    "size": 249
+  },
+  {
+    "name": "SATWR25",
+    "size": 158
+  },
+  {
+    "name": "SATWR75",
+    "size": 208
+  },
+  {
+    "name": "SATMTMID",
+    "size": 349
+  },
+  {
+    "name": "SATVRMID",
+    "size": 224
+  },
+  {
+    "name": "SATWRMID",
+    "size": 183}
+    ]
+  },
+{
+     "name": "The University of Alabama",
+     "children": [
+  {
+    "name": "The University of Alabama",
+    "size": 1171
+  },
+  {
+    "name": "SATMT25",
+    "size": 445
+  },
+  {
+    "name": "SATMT75",
+    "size": 527
+  },
+  {
+    "name": "SATVR25",
+    "size": 281
+  },
+  {
+    "name": "SATVR75",
+    "size": 351
+  },
+  {
+    "name": "SATWR25",
+    "size": 222
+  },
+  {
+    "name": "SATWR75",
+    "size": 293
+  },
+  {
+    "name": "SATMTMID",
+    "size": 492
+  },
+  {
+    "name": "SATVRMID",
+    "size": 316
+  },
+  {
+    "name": "SATWRMID",
+    "size": 258}
+    ]
+  },
+  {
+     "name": "Central Alabama Community College",
+     "children": [
+  {
+    "name": "Central Alabama Community College",
+    "size": 1171
+  },
+  {
+    "name": "SATMT25",
+    "size": 342
+  },
+  {
+    "name": "SATMT75",
+    "size": 405
+  },
+  {
+    "name": "SATVR25",
+    "size": 216
+  },
+  {
+    "name": "SATVR75",
+    "size": 270
+  },
+  {
+    "name": "SATWR25",
+    "size": 171
+  },
+  {
+    "name": "SATWR75",
+    "size": 225
+  },
+  {
+    "name": "SATMTMID",
+    "size": 378
+  },
+  {
+    "name": "SATVRMID",
+    "size": 243
+  },
+  {
+    "name": "SATWRMID",
+    "size": 198}
+    ]
+  },
+  {
+     "name": "Athens State University",
+     "children": [
+  {
+    "name": "Athens State University",
+    "size": 900
+  },
+  {
+    "name": "SATMT25",
+    "size": 329
+  },
+  {
+    "name": "SATMT75",
+    "size": 390
+  },
+  {
+    "name": "SATVR25",
+    "size": 208
+  },
+  {
+    "name": "SATVR75",
+    "size": 260
+  },
+  {
+    "name": "SATWR25",
+    "size": 165
+  },
+  {
+    "name": "SATWR75",
+    "size": 217
+  },
+  {
+    "name": "SATMTMID",
+    "size": 364
+  },
+  {
+    "name": "SATVRMID",
+    "size": 234
+  },
+  {
+    "name": "SATWRMID",
+    "size": 191}
+    ]
+  },
+  {
+     "name": "Auburn University at Montgomery",
+     "children": [
+  {
+    "name": "Auburn University at Montgomery",
+    "size": 970
+  },
+  {
+    "name": "SATMT25",
+    "size": 369
+  },
+  {
+    "name": "SATMT75",
+    "size": 437
+  },
+  {
+    "name": "SATVR25",
+    "size": 233
+  },
+  {
+    "name": "SATVR75",
+    "size": 291
+  },
+  {
+    "name": "SATWR25",
+    "size": 184
+  },
+  {
+    "name": "SATWR75",
+    "size": 243
+  },
+  {
+    "name": "SATMTMID",
+    "size": 407
+  },
+  {
+    "name": "SATVRMID",
+    "size": 262
+  },
+  {
+    "name": "SATWRMID",
+    "size": 213}
+    ]
+  },
+  {
+     "name": "Auburn University",
+     "children": [
+  {
+    "name": "Auburn University",
+    "size": 1215
+  },
+  {
+    "name": "SATMT25",
+    "size": 462
+  },
+  {
+    "name": "SATMT75",
+    "size": 547
+  },
+  {
+    "name": "SATVR25",
+    "size": 292
+  },
+  {
+    "name": "SATVR75",
+    "size": 365
+  },
+  {
+    "name": "SATWR25",
+    "size": 231
+  },
+  {
+    "name": "SATWR75",
+    "size": 304
+  },
+  {
+    "name": "SATMTMID",
+    "size": 510
+  },
+  {
+    "name": "SATVRMID",
+    "size": 328
+  },
+  {
+    "name": "SATWRMID",
+    "size": 267}
+    ]
+  },
+  {
+     "name": "Birmingham Southern Colleg",
+     "children": [
+  {
+    "name": "Birmingham Southern College",
+    "size": 1177
+  },
+  {
+    "name": "SATMT25",
+    "size": 447
+  },
+  {
+    "name": "SATMT75",
+    "size": 530
+  },
+  {
+    "name": "SATVR25",
+    "size": 282
+  },
+  {
+    "name": "SATVR75",
+    "size": 353
+  },
+  {
+    "name": "SATWR25",
+    "size": 224
+  },
+  {
+    "name": "SATWR75",
+    "size": 294
+  },
+  {
+    "name": "SATMTMID",
+    "size": 494
+  },
+  {
+    "name": "SATVRMID",
+    "size": 318
+  },
+  {
+    "name": "SATWRMID",
+    "size": 259}
+    ]
+  },
+  {
+     "name": "Chattahoochee Valley Community College",
+     "children": [
+  {
+    "name": "Chattahoochee Valley Community College",
+    "size": 1444
+  },
+  {
+    "name": "SATMT25",
+    "size": 549
+  },
+  {
+    "name": "SATMT75",
+    "size": 650
+  },
+  {
+    "name": "SATVR25",
+    "size": 347
+  },
+  {
+    "name": "SATVR75",
+    "size": 433
+  },
+  {
+    "name": "SATWR25",
+    "size": 274
+  },
+  {
+    "name": "SATWR75",
+    "size": 361
+  },
+  {
+    "name": "SATMTMID",
+    "size": 606
+  },
+  {
+    "name": "SATVRMID",
+    "size": 390
+  },
+  {
+    "name": "SATWRMID",
+    "size": 318}
+    ]
+  },
+  {
+     "name": "Concordia College Alabama",
+     "children": [
+  {
+    "name": "Concordia College Alabama",
+    "size": 2000
+  },
+  {
+    "name": "SATMT25",
+    "size": 760
+  },
+  {
+    "name": "SATMT75",
+    "size": 900
+  },
+  {
+    "name": "SATVR25",
+    "size": 480
+  },
+  {
+    "name": "SATVR75",
+    "size": 600
+  },
+  {
+    "name": "SATWR25",
+    "size": 380
+  },
+  {
+    "name": "SATWR75",
+    "size": 500
+  },
+  {
+    "name": "SATMTMID",
+    "size": 840
+  },
+  {
+    "name": "SATVRMID",
+    "size": 540
+  },
+  {
+    "name": "SATWRMID",
+    "size": 440}
+    ]
+  },
+  {
+     "name": "South University-Montgomery",
+     "children": [
+  {
+    "name": "South University-Montgomery",
+    "size": 1424
+  },
+  {
+    "name": "SATMT25",
+    "size": 541
+  },
+  {
+    "name": "SATMT75",
+    "size": 641
+  },
+  {
+    "name": "SATVR25",
+    "size": 342
+  },
+  {
+    "name": "SATVR75",
+    "size": 427
+  },
+  {
+    "name": "SATWR25",
+    "size": 271
+  },
+  {
+    "name": "SATWR75",
+    "size": 356
+  },
+  {
+    "name": "SATMTMID",
+    "size": 598
+  },
+  {
+    "name": "SATVRMID",
+    "size": 384
+  },
+  {
+    "name": "SATWRMID",
+    "size": 313}
+    ]
+  },
+  {
+     "name": "Enterprise State Community College",
+     "children": [
+  {
+    "name": "Enterprise State Community College",
+    "size": 700
+  },
+  {
+    "name": "SATMT25",
+    "size": 266
+  },
+  {
+    "name": "SATMT75",
+    "size": 315
+  },
+  {
+    "name": "SATVR25",
+    "size": 168
+  },
+  {
+    "name": "SATVR75",
+    "size": 210
+  },
+  {
+    "name": "SATWR25",
+    "size": 133
+  },
+  {
+    "name": "SATWR75",
+    "size": 175
+  },
+  {
+    "name": "SATMTMID",
+    "size": 294
+  },
+  {
+    "name": "SATVRMID",
+    "size": 189
+  },
+  {
+    "name": "SATWRMID",
+    "size": 154}
+    ]
+  },
+  {
+     "name": "James H Faulkner State Community College",
+     "children": [
+  {
+    "name": "James H Faulkner State Community College",
+    "size": 789
+  },
+  {
+    "name": "SATMT25",
+    "size": 300
+  },
+  {
+    "name": "SATMT75",
+    "size": 355
+  },
+  {
+    "name": "SATVR25",
+    "size": 189
+  },
+  {
+    "name": "SATVR75",
+    "size": 237
+  },
+  {
+    "name": "SATWR25",
+    "size": 150
+  },
+  {
+    "name": "SATWR75",
+    "size": 197
+  },
+  {
+    "name": "SATMTMID",
+    "size": 331
+  },
+  {
+    "name": "SATVRMID",
+    "size": 213
+  },
+  {
+    "name": "SATWRMID",
+    "size": 174}
+    ]
+  },
+  {
+     "name": "Faulkner University",
+     "children": [
+  {
+    "name": "Faulkner University",
+    "size": 800
+  },
+  {
+    "name": "SATMT25",
+    "size": 304
+  },
+  {
+    "name": "SATMT75",
+    "size": 360
+  },
+  {
+    "name": "SATVR25",
+    "size": 192
+  },
+  {
+    "name": "SATVR75",
+    "size": 240
+  },
+  {
+    "name": "SATWR25",
+    "size": 152
+  },
+  {
+    "name": "SATWR75",
+    "size": 200
+  },
+  {
+    "name": "SATMTMID",
+    "size": 336
+  },
+  {
+    "name": "SATVRMID",
+    "size": 216
+  },
+  {
+    "name": "SATWRMID",
+    "size": 176}
+    ]
+  },
+  {
+     "name": "Gadsden State Community College",
+     "children": [
+  {
+    "name": "Gadsden State Community College",
+    "size": 866
+  },
+  {
+    "name": "SATMT25",
+    "size": 329
+  },
+  {
+    "name": "SATMT75",
+    "size": 390
+  },
+  {
+    "name": "SATVR25",
+    "size": 208
+  },
+  {
+    "name": "SATVR75",
+    "size": 260
+  },
+  {
+    "name": "SATWR25",
+    "size": 165
+  },
+  {
+    "name": "SATWR75",
+    "size": 217
+  },
+  {
+    "name": "SATMTMID",
+    "size": 364
+  },
+  {
+    "name": "SATVRMID",
+    "size": 234
+  },
+  {
+    "name": "SATWRMID",
+    "size": 191}
+    ]
+  },
+  {
+     "name": "New Beginning College of Cosmetology",
+     "children": [
+  {
+    "name": "New Beginning College of Cosmetology",
+    "size": 900
+  },
+  {
+    "name": "SATMT25",
+    "size": 342
+  },
+  {
+    "name": "SATMT75",
+    "size": 405
+  },
+  {
+    "name": "SATVR25",
+    "size": 216
+  },
+  {
+    "name": "SATVR75",
+    "size": 270
+  },
+  {
+    "name": "SATWR25",
+    "size": 171
+  },
+  {
+    "name": "SATWR75",
+    "size": 225
+  },
+  {
+    "name": "SATMTMID",
+    "size": 378
+  },
+  {
+    "name": "SATVRMID",
+    "size": 243
+  },
+  {
+    "name": "SATWRMID",
+    "size": 198}
+    ]
+  },
+  {
+     "name": "George C Wallace State Community College-Dothan",
+     "children": [
+  {
+    "name": "George C Wallace State Community College-Dothan",
+    "size": 923
+  },
+  {
+    "name": "SATMT25",
+    "size": 351
+  },
+  {
+    "name": "SATMT75",
+    "size": 415
+  },
+  {
+    "name": "SATVR25",
+    "size": 222
+  },
+  {
+    "name": "SATVR75",
+    "size": 277
+  },
+  {
+    "name": "SATWR25",
+    "size": 175
+  },
+  {
+    "name": "SATWR75",
+    "size": 231
+  },
+  {
+    "name": "SATMTMID",
+    "size": 388
+  },
+  {
+    "name": "SATVRMID",
+    "size": 249
+  },
+  {
+    "name": "SATWRMID",
+    "size": 203}
+    ]
+  },
+  {
+     "name": "George C Wallace State Community College-Hanceville",
+     "children": [
+  {
+    "name": "George C Wallace State Community College-Hanceville",
+    "size": 1000
+  },
+  {
+    "name": "SATMT25",
+    "size": 380
+  },
+  {
+    "name": "SATMT75",
+    "size": 450
+  },
+  {
+    "name": "SATVR25",
+    "size": 240
+  },
+  {
+    "name": "SATVR75",
+    "size": 300
+  },
+  {
+    "name": "SATWR25",
+    "size": 190
+  },
+  {
+    "name": "SATWR75",
+    "size": 250
+  },
+  {
+    "name": "SATMTMID",
+    "size": 420
+  },
+  {
+    "name": "SATVRMID",
+    "size": 270
+  },
+  {
+    "name": "SATWRMID",
+    "size": 220}
+    ]
+  },
+{
+     "name": "George C Wallace State Community College-Selma",
+     "children": [
+  {
+    "name": "George C Wallace State Community College-Selma",
+    "size": 899
+  },
+  {
+    "name": "SATMT25",
+    "size": 342
+  },
+  {
+    "name": "SATMT75",
+    "size": 405
+  },
+  {
+    "name": "SATVR25",
+    "size": 216
+  },
+  {
+    "name": "SATVR75",
+    "size": 270
+  },
+  {
+    "name": "SATWR25",
+    "size": 171
+  },
+  {
+    "name": "SATWR75",
+    "size": 225
+  },
+  {
+    "name": "SATMTMID",
+    "size": 378
+  },
+  {
+    "name": "SATVRMID",
+    "size": 243
+  },
+  {
+    "name": "SATWRMID",
+    "size": 198}
+    ]
+  },
+  {
+     "name": "Herzing University-Birmingham",
+     "children": [
+  {
+    "name": "Herzing University-Birmingham",
+    "size": 845
+  },
+  {
+    "name": "SATMT25",
+    "size": 321
+  },
+  {
+    "name": "SATMT75",
+    "size": 380
+  },
+  {
+    "name": "SATVR25",
+    "size": 203
+  },
+  {
+    "name": "SATVR75",
+    "size": 254
+  },
+  {
+    "name": "SATWR25",
+    "size": 161
+  },
+  {
+    "name": "SATWR75",
+    "size": 211
+  },
+  {
+    "name": "SATMTMID",
+    "size": 355
+  },
+  {
+    "name": "SATVRMID",
+    "size": 228
+  },
+  {
+    "name": "SATWRMID",
+    "size": 186}
+    ]
+  },
+  {
+     "name": "Huntingdon College",
+     "children": [
+  {
+    "name": "Huntingdon College",
+    "size": 999
+  },
+  {
+    "name": "SATMT25",
+    "size": 380
+  },
+  {
+    "name": "SATMT75",
+    "size": 450
+  },
+  {
+    "name": "SATVR25",
+    "size": 240
+  },
+  {
+    "name": "SATVR75",
+    "size": 300
+  },
+  {
+    "name": "SATWR25",
+    "size": 190
+  },
+  {
+    "name": "SATWR75",
+    "size": 250
+  },
+  {
+    "name": "SATMTMID",
+    "size": 420
+  },
+  {
+    "name": "SATVRMID",
+    "size": 270
+  },
+  {
+    "name": "SATWRMID",
+    "size": 220}
+    ]
+  },
+  {
+     "name": "Heritage Christian University",
+     "children": [
+  {
+    "name": "Heritage Christian University",
+    "size": 971
+  },
+  {
+    "name": "SATMT25",
+    "size": 369
+  },
+  {
+    "name": "SATMT75",
+    "size": 437
+  },
+  {
+    "name": "SATVR25",
+    "size": 233
+  },
+  {
+    "name": "SATVR75",
+    "size": 291
+  },
+  {
+    "name": "SATWR25",
+    "size": 184
+  },
+  {
+    "name": "SATWR75",
+    "size": 243
+  },
+  {
+    "name": "SATMTMID",
+    "size": 408
+  },
+  {
+    "name": "SATVRMID",
+    "size": 262
+  },
+  {
+    "name": "SATWRMID",
+    "size": 214}
+    ]
+  },
+  {
+     "name": "J F Drake State Community and Technical College",
+     "children": [
+  {
+    "name": "J F Drake State Community and Technical College",
+    "size": 984
+  },
+  {
+    "name": "SATMT25",
+    "size": 374
+  },
+  {
+    "name": "SATMT75",
+    "size": 443
+  },
+  {
+    "name": "SATVR25",
+    "size": 236
+  },
+  {
+    "name": "SATVR75",
+    "size": 295
+  },
+  {
+    "name": "SATWR25",
+    "size": 187
+  },
+  {
+    "name": "SATWR75",
+    "size": 246
+  },
+  {
+    "name": "SATMTMID",
+    "size": 413
+  },
+  {
+    "name": "SATVRMID",
+    "size": 266
+  },
+  {
+    "name": "SATWRMID",
+    "size": 216}
+    ]
+  },
+  {
+     "name": "Jacksonville State University",
+     "children": [
+  {
+    "name": "Jacksonville State University",
+    "size": 1036
+  },
+  {
+    "name": "SATMT25",
+    "size": 394
+  },
+  {
+    "name": "SATMT75",
+    "size": 466
+  },
+  {
+    "name": "SATVR25",
+    "size": 249
+  },
+  {
+    "name": "SATVR75",
+    "size": 311
+  },
+  {
+    "name": "SATWR25",
+    "size": 197
+  },
+  {
+    "name": "SATWR75",
+    "size": 259
+  },
+  {
+    "name": "SATMTMID",
+    "size": 435
+  },
+  {
+    "name": "SATVRMID",
+    "size": 280
+  },
+  {
+    "name": "SATWRMID",
+    "size": 228}
+    ]
+  },
+  {
+     "name": "Jefferson Davis Community College",
+     "children": [
+  {
+    "name": "Jefferson Davis Community College",
+    "size": 982
+  },
+  {
+    "name": "SATMT25",
+    "size": 373
+  },
+  {
+    "name": "SATMT75",
+    "size": 442
+  },
+  {
+    "name": "SATVR25",
+    "size": 236
+  },
+  {
+    "name": "SATVR75",
+    "size": 295
+  },
+  {
+    "name": "SATWR25",
+    "size": 187
+  },
+  {
+    "name": "SATWR75",
+    "size": 246
+  },
+  {
+    "name": "SATMTMID",
+    "size": 412
+  },
+  {
+    "name": "SATVRMID",
+    "size": 265
+  },
+  {
+    "name": "SATWRMID",
+    "size": 216}
+    ]
+  },
+  {
+     "name": "Jefferson State Community College",
+     "children": [
+  {
+    "name": "Jefferson State Community College",
+    "size": 1043
+  },
+  {
+    "name": "SATMT25",
+    "size": 396
+  },
+  {
+    "name": "SATMT75",
+    "size": 469
+  },
+  {
+    "name": "SATVR25",
+    "size": 250
+  },
+  {
+    "name": "SATVR75",
+    "size": 313
+  },
+  {
+    "name": "SATWR25",
+    "size": 198
+  },
+  {
+    "name": "SATWR75",
+    "size": 261
+  },
+  {
+    "name": "SATMTMID",
+    "size": 438
+  },
+  {
+    "name": "SATVRMID",
+    "size": 282
+  },
+  {
+    "name": "SATWRMID",
+    "size": 229}
+    ]
+  },
+  {
+     "name": "John C Calhoun State Community College",
+     "children": [
+  {
+    "name": "John C Calhoun State Community College",
+    "size": 1048
+  },
+  {
+    "name": "SATMT25",
+    "size": 398
+  },
+  {
+    "name": "SATMT75",
+    "size": 472
+  },
+  {
+    "name": "SATVR25",
+    "size": 252
+  },
+  {
+    "name": "SATVR75",
+    "size": 314
+  },
+  {
+    "name": "SATWR25",
+    "size": 199
+  },
+  {
+    "name": "SATWR75",
+    "size": 262
+  },
+  {
+    "name": "SATMTMID",
+    "size": 440
+  },
+  {
+    "name": "SATVRMID",
+    "size": 283
+  },
+  {
+    "name": "SATWRMID",
+    "size": 231}
+    ]
+  },
+  {
+     "name": "Judson College",
+     "children": [
+  {
+    "name": "Judson College",
+    "size": 1023
+  },
+  {
+    "name": "SATMT25",
+    "size": 389
+  },
+  {
+    "name": "SATMT75",
+    "size": 460
+  },
+  {
+    "name": "SATVR25",
+    "size": 246
+  },
+  {
+    "name": "SATVR75",
+    "size": 307
+  },
+  {
+    "name": "SATWR25",
+    "size": 194
+  },
+  {
+    "name": "SATWR75",
+    "size": 256
+  },
+  {
+    "name": "SATMTMID",
+    "size": 430
+  },
+  {
+    "name": "SATVRMID",
+    "size": 276
+  },
+  {
+    "name": "SATWRMID",
+    "size": 225}
+    ]
+  },
+  {
+     "name": "Lawson State Community College-Birmingham Campus",
+     "children": [
+  {
+    "name": "Lawson State Community College-Birmingham Campus",
+    "size": 1024
+  },
+  {
+    "name": "SATMT25",
+    "size": 389
+  },
+  {
+    "name": "SATMT75",
+    "size": 461
+  },
+  {
+    "name": "SATVR25",
+    "size": 246
+  },
+  {
+    "name": "SATVR75",
+    "size": 307
+  },
+  {
+    "name": "SATWR25",
+    "size": 195
+  },
+  {
+    "name": "SATWR75",
+    "size": 256
+  },
+  {
+    "name": "SATMTMID",
+    "size": 430
+  },
+  {
+    "name": "SATVRMID",
+    "size": 276
+  },
+  {
+    "name": "SATWRMID",
+    "size": 225}
+    ]
+  },
+  {
+     "name": "University of West Alabama",
+     "children": [
+  {
+    "name": "University of West Alabama",
+    "size": 950
+  },
+  {
+    "name": "SATMT25",
+    "size": 361
+  },
+  {
+    "name": "SATMT75",
+    "size": 428
+  },
+  {
+    "name": "SATVR25",
+    "size": 228
+  },
+  {
+    "name": "SATVR75",
+    "size": 285
+  },
+  {
+    "name": "SATWR25",
+    "size": 181
+  },
+  {
+    "name": "SATWR75",
+    "size": 238
+  },
+  {
+    "name": "SATMTMID",
+    "size": 399
+  },
+  {
+    "name": "SATVRMID",
+    "size": 257
+  },
+  {
+    "name": "SATWRMID",
+    "size": 209}
+    ]
+  },
+  {
+     "name": "Lurleen B Wallace Community College",
+     "children": [
+  {
+    "name": "Lurleen B Wallace Community College",
+    "size": 789
+  },
+  {
+    "name": "SATMT25",
+    "size": 300
+  },
+  {
+    "name": "SATMT75",
+    "size": 355
+  },
+  {
+    "name": "SATVR25",
+    "size": 189
+  },
+  {
+    "name": "SATVR75",
+    "size": 237
+  },
+  {
+    "name": "SATWR25",
+    "size": 150
+  },
+  {
+    "name": "SATWR75",
+    "size": 197
+  },
+  {
+    "name": "SATMTMID",
+    "size": 331
+  },
+  {
+    "name": "SATVRMID",
+    "size": 213
+  },
+  {
+    "name": "SATWRMID",
+    "size": 174}
+    ]
+  },
+  {
+     "name": "Marion Military Institute",
+     "children": [
+  {
+    "name": "Marion Military Institute",
+    "size": 1040
+  },
+  {
+    "name": "SATMT25",
+    "size": 395
+  },
+  {
+    "name": "SATMT75",
+    "size": 468
+  },
+  {
+    "name": "SATVR25",
+    "size": 250
+  },
+  {
+    "name": "SATVR75",
+    "size": 312
+  },
+  {
+    "name": "SATWR25",
+    "size": 198
+  },
+  {
+    "name": "SATWR75",
+    "size": 260
+  },
+  {
+    "name": "SATMTMID",
+    "size": 437
+  },
+  {
+    "name": "SATVRMID",
+    "size": 281
+  },
+  {
+    "name": "SATWRMID",
+    "size": 229}
+    ]
+  },
+  {
+     "name": "Miles College",
+     "children": [
+  {
+    "name": "Miles College",
+    "size": 674
+  },
+  {
+    "name": "SATMT25",
+    "size": 256
+  },
+  {
+    "name": "SATMT75",
+    "size": 303
+  },
+  {
+    "name": "SATVR25",
+    "size": 162
+  },
+  {
+    "name": "SATVR75",
+    "size": 202
+  },
+  {
+    "name": "SATWR25",
+    "size": 128
+  },
+  {
+    "name": "SATWR75",
+    "size": 169
+  },
+  {
+    "name": "SATMTMID",
+    "size": 283
+  },
+  {
+    "name": "SATVRMID",
+    "size": 182
+  },
+  {
+    "name": "SATWRMID",
+    "size": 148}
+    ]
+  },
+  {
+     "name": "University of Mobile",
+     "children": [
+  {
+    "name": "University of Mobile",
+    "size": 1058
+  },
+  {
+    "name": "SATMT25",
+    "size": 402
+  },
+  {
+    "name": "SATMT75",
+    "size": 476
+  },
+  {
+    "name": "SATVR25",
+    "size": 254
+  },
+  {
+    "name": "SATVR75",
+    "size": 317
+  },
+  {
+    "name": "SATWR25",
+    "size": 201
+  },
+  {
+    "name": "SATWR75",
+    "size": 265
+  },
+  {
+    "name": "SATMTMID",
+    "size": 444
+  },
+  {
+    "name": "SATVRMID",
+    "size": 286
+  },
+  {
+    "name": "SATWRMID",
+    "size": 233}
+    ]
+  },
+  {
+     "name": "University of Montevallo",
+     "children": [
+  {
+    "name": "University of Montevallo",
+    "size": 1070
+  },
+  {
+    "name": "SATMT25",
+    "size": 407
+  },
+  {
+    "name": "SATMT75",
+    "size": 482
+  },
+  {
+    "name": "SATVR25",
+    "size": 257
+  },
+  {
+    "name": "SATVR75",
+    "size": 321
+  },
+  {
+    "name": "SATWR25",
+    "size": 203
+  },
+  {
+    "name": "SATWR75",
+    "size": 268
+  },
+  {
+    "name": "SATMTMID",
+    "size": 449
+  },
+  {
+    "name": "SATVRMID",
+    "size": 289
+  },
+  {
+    "name": "SATWRMID",
+    "size": 235}
+    ]
+  },
+  {
+     "name": "Northwest-Shoals Community College",
+     "children": [
+  {
+    "name": "Northwest-Shoals Community College",
+    "size": 900
+  },
+  {
+    "name": "SATMT25",
+    "size": 342
+  },
+  {
+    "name": "SATMT75",
+    "size": 405
+  },
+  {
+    "name": "SATVR25",
+    "size": 216
+  },
+  {
+    "name": "SATVR75",
+    "size": 270
+  },
+  {
+    "name": "SATWR25",
+    "size": 171
+  },
+  {
+    "name": "SATWR75",
+    "size": 225
+  },
+  {
+    "name": "SATMTMID",
+    "size": 378
+  },
+  {
+    "name": "SATVRMID",
+    "size": 243
+  },
+  {
+    "name": "SATWRMID",
+    "size": 198}
+    ]
+  },
+  {
+     "name": "University of North Alabama",
+     "children": [
+  {
+    "name": "University of North Alabama",
+    "size": 1028
+  },
+  {
+    "name": "SATMT25",
+    "size": 391
+  },
+  {
+    "name": "SATMT75",
+    "size": 463
+  },
+  {
+    "name": "SATVR25",
+    "size": 247
+  },
+  {
+    "name": "SATVR75",
+    "size": 308
+  },
+  {
+    "name": "SATWR25",
+    "size": 195
+  },
+  {
+    "name": "SATWR75",
+    "size": 257
+  },
+  {
+    "name": "SATMTMID",
+    "size": 432
+  },
+  {
+    "name": "SATVRMID",
+    "size": 278
+  },
+  {
+    "name": "SATWRMID",
+    "size": 226}
+    ]
+  },
+  {
+     "name": "Northeast Alabama Community College",
+     "children": [
+  {
+    "name": "Northeast Alabama Community College",
+    "size": 896
+  },
+  {
+    "name": "SATMT25",
+    "size": 340
+  },
+  {
+    "name": "SATMT75",
+    "size": 403
+  },
+  {
+    "name": "SATVR25",
+    "size": 215
+  },
+  {
+    "name": "SATVR75",
+    "size": 269
+  },
+  {
+    "name": "SATWR25",
+    "size": 170
+  },
+  {
+    "name": "SATWR75",
+    "size": 224
+  },
+  {
+    "name": "SATMTMID",
+    "size": 376
+  },
+  {
+    "name": "SATVRMID",
+    "size": 242
+  },
+  {
+    "name": "SATWRMID",
+    "size": 197}
+    ]
+  },
+  {
+     "name": "Oakwood University",
+     "children": [
+  {
+    "name": "Oakwood University",
+    "size": 924
+  },
+  {
+    "name": "SATMT25",
+    "size": 351
+  },
+  {
+    "name": "SATMT75",
+    "size": 416
+  },
+  {
+    "name": "SATVR25",
+    "size": 222
+  },
+  {
+    "name": "SATVR75",
+    "size": 277
+  },
+  {
+    "name": "SATWR25",
+    "size": 176
+  },
+  {
+    "name": "SATWR75",
+    "size": 231
+  },
+  {
+    "name": "SATMTMID",
+    "size": 388
+  },
+  {
+    "name": "SATVRMID",
+    "size": 249
+  },
+  {
+    "name": "SATWRMID",
+    "size": 203}
+    ]
+  },
+  {
+     "name": "Alabama Southern Community College",
+     "children": [
+  {
+    "name": "Alabama Southern Community College",
+    "size": 786
+  },
+  {
+    "name": "SATMT25",
+    "size": 299
+  },
+  {
+    "name": "SATMT75",
+    "size": 354
+  },
+  {
+    "name": "SATVR25",
+    "size": 189
+  },
+  {
+    "name": "SATVR75",
+    "size": 236
+  },
+  {
+    "name": "SATWR25",
+    "size": 149
+  },
+  {
+    "name": "SATWR75",
+    "size": 197
+  },
+  {
+    "name": "SATMTMID",
+    "size": 330
+  },
+  {
+    "name": "SATVRMID",
+    "size": 212
+  },
+  {
+    "name": "SATWRMID",
+    "size": 173}
+    ]
+  },
+  {
+     "name": "Prince Institute-Southeast",
+     "children": [
+  {
+    "name": "Prince Institute-Southeast",
+    "size": 890
+  },
+  {
+    "name": "SATMT25",
+    "size": 338
+  },
+  {
+    "name": "SATMT75",
+    "size": 401
+  },
+  {
+    "name": "SATVR25",
+    "size": 214
+  },
+  {
+    "name": "SATVR75",
+    "size": 267
+  },
+  {
+    "name": "SATWR25",
+    "size": 169
+  },
+  {
+    "name": "SATWR75",
+    "size": 223
+  },
+  {
+    "name": "SATMTMID",
+    "size": 374
+  },
+  {
+    "name": "SATVRMID",
+    "size": 240
+  },
+  {
+    "name": "SATWRMID",
+    "size": 196}
+    ]
+  },
+  {
+     "name": "Reid State Technical College",
+     "children": [
+  {
+    "name": "Reid State Technical College",
+    "size": 967
+  },
+  {
+    "name": "SATMT25",
+    "size": 367
+  },
+  {
+    "name": "SATMT75",
+    "size": 435
+  },
+  {
+    "name": "SATVR25",
+    "size": 232
+  },
+  {
+    "name": "SATVR75",
+    "size": 290
+  },
+  {
+    "name": "SATWR25",
+    "size": 184
+  },
+  {
+    "name": "SATWR75",
+    "size": 242
+  },
+  {
+    "name": "SATMTMID",
+    "size": 406
+  },
+  {
+    "name": "SATVRMID",
+    "size": 261
+  },
+  {
+    "name": "SATWRMID",
+    "size": 213}
+    ]
+  },
+  {
+     "name": "Bishop State Community College",
+     "children": [
+  {
+    "name": "Bishop State Community College",
+    "size": 900
+  },
+  {
+    "name": "SATMT25",
+    "size": 342
+  },
+  {
+    "name": "SATMT75",
+    "size": 405
+  },
+  {
+    "name": "SATVR25",
+    "size": 216
+  },
+  {
+    "name": "SATVR75",
+    "size": 270
+  },
+  {
+    "name": "SATWR25",
+    "size": 171
+  },
+  {
+    "name": "SATWR75",
+    "size": 225
+  },
+  {
+    "name": "SATMTMID",
+    "size": 378
+  },
+  {
+    "name": "SATVRMID",
+    "size": 243
+  },
+  {
+    "name": "SATWRMID",
+    "size": 198}
+    ]
+  },
+  {
+     "name": "Samford University",
+     "children": [
+  {
+    "name": "Samford University",
+    "size": 1153
+  },
+  {
+    "name": "SATMT25",
+    "size": 438
+  },
+  {
+    "name": "SATMT75",
+    "size": 519
+  },
+  {
+    "name": "SATVR25",
+    "size": 277
+  },
+  {
+    "name": "SATVR75",
+    "size": 346
+  },
+  {
+    "name": "SATWR25",
+    "size": 219
+  },
+  {
+    "name": "SATWR75",
+    "size": 288
+  },
+  {
+    "name": "SATMTMID",
+    "size": 484
+  },
+  {
+    "name": "SATVRMID",
+    "size": 311
+  },
+  {
+    "name": "SATWRMID",
+    "size": 254}
+    ]
+  },
+  {
+     "name": "Selma University",
+     "children": [
+  {
+    "name": "Selma University",
+    "size": 1234
+  },
+  {
+    "name": "SATMT25",
+    "size": 469
+  },
+  {
+    "name": "SATMT75",
+    "size": 555
+  },
+  {
+    "name": "SATVR25",
+    "size": 296
+  },
+  {
+    "name": "SATVR75",
+    "size": 370
+  },
+  {
+    "name": "SATWR25",
+    "size": 234
+  },
+  {
+    "name": "SATWR75",
+    "size": 309
+  },
+  {
+    "name": "SATMTMID",
+    "size": 518
+  },
+  {
+    "name": "SATVRMID",
+    "size": 333
+  },
+  {
+    "name": "SATWRMID",
+    "size": 271}
+    ]
+  },
+  {
+     "name": "Shelton State Community College",
+     "children": [
+  {
+    "name": "Shelton State Community College",
+    "size": 2123
+  },
+  {
+    "name": "SATMT25",
+    "size": 807
+  },
+  {
+    "name": "SATMT75",
+    "size": 955
+  },
+  {
+    "name": "SATVR25",
+    "size": 510
+  },
+  {
+    "name": "SATVR75",
+    "size": 637
+  },
+  {
+    "name": "SATWR25",
+    "size": 403
+  },
+  {
+    "name": "SATWR75",
+    "size": 531
+  },
+  {
+    "name": "SATMTMID",
+    "size": 892
+  },
+  {
+    "name": "SATVRMID",
+    "size": 573
+  },
+  {
+    "name": "SATWRMID",
+    "size": 467}
+    ]
+  },
+  {
+     "name": "Snead State Community College",
+     "children": [
+  {
+    "name": "Snead State Community College",
+    "size": 1456
+  },
+  {
+    "name": "SATMT25",
+    "size": 553
+  },
+  {
+    "name": "SATMT75",
+    "size": 655
+  },
+  {
+    "name": "SATVR25",
+    "size": 349
+  },
+  {
+    "name": "SATVR75",
+    "size": 437
+  },
+  {
+    "name": "SATWR25",
+    "size": 277
+  },
+  {
+    "name": "SATWR75",
+    "size": 364
+  },
+  {
+    "name": "SATMTMID",
+    "size": 612
+  },
+  {
+    "name": "SATVRMID",
+    "size": 393
+  },
+  {
+    "name": "SATWRMID",
+    "size": 320
+  }
+]
+}
+]
+}
+]
+}
