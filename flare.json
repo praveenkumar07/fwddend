@@ -5,127 +5,93 @@
         "children": [{
             "name": "Egypt",
             "children": [{
-                "name": "Deaths due Tuberculosise per year-3",
+                "name": "Deaths due Tuberculosise per year",
                 "size": 3
             }, {
-                "name": "Malaria Death under 5 years - 40",
+                "name": "Malaria Death under 5 years",
                 "size": 40
             }, {
-                "name": "Measels deathbunder 5 years- 10",
+                "name": "Measels deathbunder 5 years",
                 "size": 10
             }, {
-                "name": "Pneumonia death under 5 years -146",
+                "name": "Pneumonia death under 5 years",
                 "size": 146
             }]
         }, {
             "name": "Iraq",
             "children": [{
-                "name": "Deaths due Tuberculosise per year -11",
+                "name": "Deaths due Tuberculosise per year",
                 "size": 11
             }, {
-                "name": "Malaria Death under 5 years -7",
+                "name": "Malaria Death under 5 years",
                 "size": 7
             }, {
-                "name": "Measels deathbunder 5 years-5",
+                "name": "Measels deathbunder 5 years",
                 "size": 5
             }, {
-                "name": "Pneumonia death under 5 years -176",
+                "name": "Pneumonia death under 5 years",
                 "size": 176
             }]
         }, {
             "name": "Israel",
             "children": [{
-              "name": "Pneumonia death under 5 years -4",
+              "name": "Pneumonia death under 5 years",
                 "size": 4
             }]
         }]
     }, {
-        "name": "Europe",
+        "name": "data",
         "children": [{
-            "name": "Kazakhstan",
+            "name": "converters",
             "children": [{
-                "name": "Deaths due Tuberculosise per year-17",
-                "size": 17
-            },  {
-              "name": "Malaria Death under 5 years -8",
-                "size": 8
-            },{
-              "name": "Measels deathbunder 5 years-11",
-                "size": 11
-            },{
-                "name": "Pneumonia death under 5 years -169",
-                "size": 169
-              }]
-        }, {
-            "name": "Uzbekistan",
-            "children": [{
-                "name": "Deaths due Tuberculosise per year -17",
-                "size": 17
+                "name": "Converters",
+                "size": 721
             }, {
-                "name": "Malaria Death under 5 years -8",
-                "size": 8
+                "name": "DelimitedTextConverter",
+                "size": 4294
             }, {
-                "name": "Measels deathbunder 5 years-11",
-                "size": 5
+                "name": "GraphMLConverter",
+                "size": 9800
             }, {
-                "name": "Pneumonia death under 5 years -168",
-                "size": 168
+                "name": "IDataConverter",
+                "size": 1314
+            }, {
+                "name": "JSONConverter",
+                "size": 2220
             }]
         }, {
-            "name": "Greece",
-            "children": [{
-              "name": "Pneumonia death under 5 years -26",
-                "size": 26
-            }]
+            "name": "DataField",
+            "size": 1759
+        }, {
+            "name": "DataSchema",
+            "size": 2165
+        }, {
+            "name": "DataSet",
+            "size": 586
+        }, {
+            "name": "DataSource",
+            "size": 3331
+        }, {
+            "name": "DataTable",
+            "size": 772
+        }, {
+            "name": "DataUtil",
+            "size": 3322
         }]
     }, {
-        "name": "North America",
+        "name": "display",
         "children": [{
-            "name": "United States of America",
-            "children": [{
-                "name": "Deaths due Tuberculosise per year-0",
-                "size": 17
-            },  {
-              "name": "Malaria Death under 5 years -0",
-                "size": 8
-            },{
-              "name": "Measels deathbunder 5 years-0",
-                "size": 11
-            },{
-                "name": "Pneumonia death under 5 years -13",
-                "size": 169
-              }]
+            "name": "DirtySprite",
+            "size": 8833
         }, {
-            "name": "Mexico",
-            "children": [{
-                "name": "Deaths due Tuberculosise per year -2",
-                "size": 17
-            }, {
-                "name": "Malaria Death under 5 years -0",
-                "size": 8
-            }, {
-                "name": "Measels deathbunder 5 years-0",
-                "size": 5
-            }, {
-                "name": "Pneumonia death under 5 years -85",
-                "size": 168
-            }]
+            "name": "LineSprite",
+            "size": 1732
         }, {
-            "name": "Bahamas",
-            "children": [{
-                "name": "Deaths due Tuberculosise per year -3",
-                "size": 17
-            }, {
-                "name": "Malaria Death under 5 years -0",
-                "size": 8
-            }, {
-                "name": "Measels deathbunder 5 years-0",
-                "size": 5
-            }, {
-                "name": "Pneumonia death under 5 years -53",
-                "size": 168
-            }]
-        }]
+            "name": "RectSprite",
+            "size": 3623
+        }, {
+            "name": "TextSprite",
+            "size": 10066
         }]
     }, {
         "name": "flex",
