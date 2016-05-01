@@ -1,4 +1,4 @@
-treeJSON = d3.json("https://gist.githubusercontent.com/mbostock/2e12b0bd732e7fe4000e2d11ecab0268/raw/0cb06e2e54632e46e7e36cfd523cc744120f87ad/flare.csv", function(error, treeData) {
+treeJSON = d3.json("https://raw.githubusercontent.com/praveenkumar07/fwddend/master/flare.json", function(error, treeData) {
 
     // Calculate total nodes, max label length
     var totalNodes = 0;
