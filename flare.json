@@ -111,21 +111,11 @@
                 "size": 168
             }]
         }, {
-            "name": "Bahamas",
+            "name": "Greece",
             "children": [{
-                "name": "Deaths due Tuberculosise per year -3",
-                "size": 17
-            }, {
-                "name": "Malaria Death under 5 years -0",
-                "size": 8
-            }, {
-                "name": "Measels deathbunder 5 years-0",
-                "size": 5
-            }, {
-                "name": "Pneumonia death under 5 years -53",
-                "size": 168
+              "name": "Pneumonia death under 5 years -26",
+                "size": 26
             }]
-        }]
         }]
     }, {
         "name": "flex",
