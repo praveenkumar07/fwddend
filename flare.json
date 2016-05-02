@@ -5,38 +5,47 @@
         "children": [{
             "name": "Egypt",
             "children": [{
-                "name": "Deaths due Tuberculosise per year-3%",
-                "size": 3
+              "name": "Deaths due Tuberculosise per year -15%",
+                "size": 17
             }, {
-                "name": "Adult mortality rate (15 to 60 years age) -2%",
-                "size": 40
+              "name": "Adult mortality rate (15 to 60 years age)-5%",
+                "size": 8
             }, {
-                "name": "Adult mortality rate (15 to 60 years age) female -1%",
-                "size": 10
+              "name": "Adult mortality rate (15 to 60 years age) female-1%",
+                "size": 1
             }, {
-                "name": "Adult mortality rate to (15 to 60 years age) male-5%",
-                "size": 146
+              "name": "Adult mortality rate to (15 to 60 years age) male-16%",
+                "size": 168
             }]
         }, {
             "name": "Iraq",
             "children": [{
-                "name": "Deaths due Tuberculosise per year-7%",
-                "size": 11
+              "name": "Deaths due Tuberculosise per year -12%",
+                "size": 17
             }, {
-                "name": "Adult mortality rate (15 to 60 years age)-5%",
-                "size": 7
+              "name": "Adult mortality rate (15 to 60 years age)-0%",
+                "size": 0
             }, {
-                "name": "Adult mortality rate (15 to 60 years age) female-3%",
-                "size": 5
+              "name": "Adult mortality rate (15 to 60 years age) female-0%",
+                "size": 0
             }, {
-                "name": "Adult mortality rate to (15 to 60 years age) male-12%",
-                "size": 176
+              "name": "Adult mortality rate to (15 to 60 years age) male-21%",
+                "size": 271
             }]
         }, {
             "name": "Israel",
             "children": [{
-              "name": "Adult mortality rate to (15 to 60 years age) male%",
-                "size": 4
+              "name": "Deaths due Tuberculosise per year -11%",
+                "size": 17
+            }, {
+              "name": "Adult mortality rate (15 to 60 years age)-2%",
+                "size": 8
+            }, {
+              "name": "Adult mortality rate (15 to 60 years age) female-1%",
+                "size": 1
+            }, {
+              "name": "Adult mortality rate to (15 to 60 years age) male-16%",
+                "size": 271
             }]
         }]
     }, {
