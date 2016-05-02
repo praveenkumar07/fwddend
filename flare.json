@@ -47,18 +47,30 @@
               "name": "Deaths due Tuberculosise per year -17",
                 "size": 17
             }, {
-              "name": "Malaria Death under 5 years",
-                "size": 4294
+              "name": "Malaria Death under 5 years-8",
+                "size": 8
             }, {
-              "name": "Measels deathbunder 5 years",
-                "size": 9800
+              "name": "Measels deathbunder 5 years-1",
+                "size": 1
             }, {
-              "name": "Pneumonia death under 5 years",
-                "size": 1314
+              "name": "Pneumonia death under 5 years-168",
+                "size": 168
             }]
         }, {
-            "name": "DataField",
-            "size": 1759
+            "name": "Romania",
+            "children": [{
+              "name": "Deaths due Tuberculosise per year -17",
+                "size": 17
+            }, {
+              "name": "Malaria Death under 5 years-0",
+                "size": 0
+            }, {
+              "name": "Measels deathbunder 5 years-0",
+                "size": 0
+            }, {
+              "name": "Pneumonia death under 5 years-271",
+                "size": 271
+            }]
         }, {
             "name": "DataSchema",
             "size": 2165
