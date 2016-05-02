@@ -155,61 +155,61 @@
         "children": [{
             "name": "india",
             "children": [{
-              "name": "Deaths due Tuberculosise per year -2",
+              "name": "Deaths due Tuberculosise per year -28",
                 "size": 3
             }, {
-              "name": "Malaria Death under 5 years-3",
+              "name": "Malaria Death under 5 years-9",
                 "size": 8
             }, {
-              "name": "Measels deathbunder 5 years-1",
+              "name": "Measels deathbunder 5 years-37",
                 "size": 1
             }, {
-              "name": "Pneumonia death under 5 years-53",
+              "name": "Pneumonia death under 5 years-185",
                 "size": 53
             }]
         }, {
-            "name": "United States of America",
+            "name": "Bangladesh",
             "children": [{
-              "name": "Deaths due Tuberculosise per year -0",
+              "name": "Deaths due Tuberculosise per year -45",
                 "size": 3
             }, {
-              "name": "Malaria Death under 5 years-0",
+              "name": "Malaria Death under 5 years-7",
                 "size": 8
             }, {
-              "name": "Measels deathbunder 5 years-0",
+              "name": "Measels deathbunder 5 years-2",
                 "size": 1
             }, {
-              "name": "Pneumonia death under 5 years-13",
+              "name": "Pneumonia death under 5 years-176",
                 "size": 13
             }]
         }, {
-            "name": "Mexico",
+            "name": "Nepal",
             "children": [{
-              "name": "Deaths due Tuberculosise per year -2",
+              "name": "Deaths due Tuberculosise per year -22",
                 "size": 3
             }, {
-              "name": "Malaria Death under 5 years-0",
+              "name": "Malaria Death under 5 years-8",
                 "size": 8
             }, {
-              "name": "Measels deathbunder 5 years-0",
+              "name": "Measels deathbunder 5 years-27",
                 "size": 1
             }, {
-              "name": "Pneumonia death under 5 years-85",
+              "name": "Pneumonia death under 5 years-185",
                 "size": 13
             }]
         }, {
-            "name": "Canada",
+            "name": "Pakistan",
             "children": [{
-              "name": "Deaths due Tuberculosise per year -0",
+              "name": "Deaths due Tuberculosise per year -34",
                 "size": 3
             }, {
-              "name": "Malaria Death under 5 years-0",
+              "name": "Malaria Death under 5 years-7",
                 "size": 8
             }, {
-              "name": "Measels deathbunder 5 years-0",
+              "name": "Measels deathbunder 5 years-24",
                 "size": 1
             }, {
-              "name": "Pneumonia death under 5 years-12",
+              "name": "Pneumonia death under 5 years-193",
                 "size": 13
             }]
         }]
