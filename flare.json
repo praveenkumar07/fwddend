@@ -214,31 +214,67 @@
             }]
         }]
     }, {
-        "name": "physics",
+        "name": "Oceania",
         "children": [{
-            "name": "DragForce",
-            "size": 1082
+            "name": "Australia",
+            "children": [{
+              "name": "Deaths due Tuberculosise per year -3",
+                "size": 3
+            }, {
+              "name": "Malaria Death under 5 years-7",
+                "size": 8
+            }, {
+              "name": "Measels deathbunder 5 years-4",
+                "size": 1
+            }, {
+              "name": "Pneumonia death under 5 years-13",
+                "size": 13
+            }]
         }, {
-            "name": "GravityForce",
-            "size": 1336
+            "name": "New Zealand",
+            "children": [{
+              "name": "Deaths due Tuberculosise per year -5",
+                "size": 3
+            }, {
+              "name": "Malaria Death under 5 years-5",
+                "size": 8
+            }, {
+              "name": "Measels deathbunder 5 years-6",
+                "size": 1
+            }, {
+              "name": "Pneumonia death under 5 years-25",
+                "size": 13
+            }]
         }, {
-            "name": "IForce",
-            "size": 319
+            "name": "Fiji",
+            "children": [{
+              "name": "Deaths due Tuberculosise per year -7",
+                "size": 3
+            }, {
+              "name": "Malaria Death under 5 years-9",
+                "size": 8
+            }, {
+              "name": "Measels deathbunder 5 years-8",
+                "size": 1
+            }, {
+              "name": "Pneumonia death under 5 years-35",
+                "size": 13
+            }]
         }, {
-            "name": "NBodyForce",
-            "size": 10498
-        }, {
-            "name": "Particle",
-            "size": 2822
-        }, {
-            "name": "Simulation",
-            "size": 9983
-        }, {
-            "name": "Spring",
-            "size": 2213
-        }, {
-            "name": "SpringForce",
-            "size": 1681
+            "name": "Palau",
+            "children": [{
+              "name": "Deaths due Tuberculosise per year -4",
+                "size": 3
+            }, {
+              "name": "Malaria Death under 5 years-1",
+                "size": 8
+            }, {
+              "name": "Measels deathbunder 5 years-7",
+                "size": 1
+            }, {
+              "name": "Pneumonia death under 5 years-44",
+                "size": 13
+            }]
         }]
     }
 
