@@ -86,21 +86,24 @@
               "name": "Pneumonia death under 5 years-169",
                 "size": 271
             }]
-        }, {
-            "name": "DataSet",
-            "size": 586
-        }, {
-            "name": "DataSource",
-            "size": 3331
-        }, {
-            "name": "DataTable",
-            "size": 772
         }]
     }, {
-        "name": "display",
+        "name": "North America",
         "children": [{
-            "name": "DirtySprite",
-            "size": 8833
+            "name": "Bahamas",
+            "children": [{
+              "name": "Deaths due Tuberculosise per year -3",
+                "size": 3
+            }, {
+              "name": "Malaria Death under 5 years-0",
+                "size": 8
+            }, {
+              "name": "Measels deathbunder 5 years-1",
+                "size": 1
+            }, {
+              "name": "Pneumonia death under 5 years-53",
+                "size": 53
+            }]
         }, {
             "name": "LineSprite",
             "size": 1732
