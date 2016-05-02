@@ -40,24 +40,21 @@
             }]
         }]
     }, {
-        "name": "data",
+        "name": "Europe",
         "children": [{
-            "name": "converters",
+            "name": "Uzbekistan",
             "children": [{
-                "name": "Converters",
-                "size": 721
+              "name": "Deaths due Tuberculosise per year -17",
+                "size": 17
             }, {
-                "name": "DelimitedTextConverter",
+              "name": "Malaria Death under 5 years",
                 "size": 4294
             }, {
-                "name": "GraphMLConverter",
+              "name": "Measels deathbunder 5 years",
                 "size": 9800
             }, {
-                "name": "IDataConverter",
+              "name": "Pneumonia death under 5 years",
                 "size": 1314
-            }, {
-                "name": "JSONConverter",
-                "size": 2220
             }]
         }, {
             "name": "DataField",
