@@ -120,11 +120,35 @@
                 "size": 13
             }]
         }, {
-            "name": "RectSprite",
-            "size": 3623
+            "name": "Mexico",
+            "children": [{
+              "name": "Deaths due Tuberculosise per year -2",
+                "size": 3
+            }, {
+              "name": "Malaria Death under 5 years-0",
+                "size": 8
+            }, {
+              "name": "Measels deathbunder 5 years-0",
+                "size": 1
+            }, {
+              "name": "Pneumonia death under 5 years-85",
+                "size": 13
+            }]
         }, {
-            "name": "TextSprite",
-            "size": 10066
+            "name": "Canada",
+            "children": [{
+              "name": "Deaths due Tuberculosise per year -0",
+                "size": 3
+            }, {
+              "name": "Malaria Death under 5 years-0",
+                "size": 8
+            }, {
+              "name": "Measels deathbunder 5 years-0",
+                "size": 1
+            }, {
+              "name": "Pneumonia death under 5 years-12",
+                "size": 13
+            }]
         }]
     }, {
         "name": "flex",
