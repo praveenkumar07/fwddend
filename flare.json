@@ -92,10 +92,10 @@
         "children": [{
             "name": "Bahamas",
             "children": [{
-              "name": "Deaths due Tuberculosise per year -3",
+              "name": "Deaths due Tuberculosise per year -2",
                 "size": 3
             }, {
-              "name": "Malaria Death under 5 years-0",
+              "name": "Malaria Death under 5 years-3",
                 "size": 8
             }, {
               "name": "Measels deathbunder 5 years-1",
@@ -105,8 +105,20 @@
                 "size": 53
             }]
         }, {
-            "name": "LineSprite",
-            "size": 1732
+            "name": "United States of America",
+            "children": [{
+              "name": "Deaths due Tuberculosise per year -0",
+                "size": 3
+            }, {
+              "name": "Malaria Death under 5 years-0",
+                "size": 8
+            }, {
+              "name": "Measels deathbunder 5 years-0",
+                "size": 1
+            }, {
+              "name": "Pneumonia death under 5 years-13",
+                "size": 13
+            }]
         }, {
             "name": "RectSprite",
             "size": 3623
