@@ -72,8 +72,20 @@
                 "size": 271
             }]
         }, {
-            "name": "DataSchema",
-            "size": 2165
+            "name": "Kazakhstan",
+            "children": [{
+              "name": "Deaths due Tuberculosise per year -17",
+                "size": 17
+            }, {
+              "name": "Malaria Death under 5 years-8",
+                "size": 8
+            }, {
+              "name": "Measels deathbunder 5 years-1",
+                "size": 1
+            }, {
+              "name": "Pneumonia death under 5 years-169",
+                "size": 271
+            }]
         }, {
             "name": "DataSet",
             "size": 586
@@ -83,9 +95,6 @@
         }, {
             "name": "DataTable",
             "size": 772
-        }, {
-            "name": "DataUtil",
-            "size": 3322
         }]
     }, {
         "name": "display",
